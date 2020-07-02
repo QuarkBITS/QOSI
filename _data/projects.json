@@ -52,7 +52,7 @@
     "title": "Robot Acoustic Localisation (RAL)",
     "img": "RAL.jpg",
     "by": "ERC",
-    "description": "Our aim is to develop a system that uses ultrasonic pulses to localise a team of robots and to detect obstacles simultaneously. We hope to make this an open source module that can be implemented in any generic robotics project."
+    "description": "Our aim is to develop an open source module that uses ultrasonic pulses to localise a team of robots and to detect environmental obstacles simultaneously that can be implemented in any generic robotics project."
   },
   {
     "title": "Gennav",
