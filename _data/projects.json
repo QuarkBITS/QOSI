@@ -48,5 +48,28 @@
     "by": "BITSKrieg",
     "description": "This project aims to build a tool for testing for Cross Site Scripting vulnerabilities in web applications, based on a wordlist of payloads. This project intends to be a basic tool to detect such vulnerabilities to improve security and automate the process of securing websites with effective filters."
   },
-  
+  {
+    "title": "Cryptographer",
+    "img": "Crypto.jpg",
+    "by": "BITSKrieg",
+    "description": "This project intends to be a swiss army knife of cracking classical cryptography, by collating all existing ciphers and implementing scripts to crack each of them. Eventually, this project aims to evolve further by accommodating advanced features such as brute-force attacks and dictionary attacks."
+  },
+  {
+    "title": "XXS Automator",
+    "img": "XXS.jpg",
+    "by": "BITSKrieg",
+    "description": "This project aims to build a tool for testing for Cross Site Scripting vulnerabilities in web applications, based on a wordlist of payloads. This project intends to be a basic tool to detect such vulnerabilities to improve security and automate the process of securing websites with effective filters."
+  },
+  {
+    "title": "XXS Automator",
+    "img": "XXS.jpg",
+    "by": "BITSKrieg",
+    "description": "This project aims to build a tool for testing for Cross Site Scripting vulnerabilities in web applications, based on a wordlist of payloads. This project intends to be a basic tool to detect such vulnerabilities to improve security and automate the process of securing websites with effective filters."
+  },
+  {
+    "title": "XXS Automator",
+    "img": "XXS.jpg",
+    "by": "BITSKrieg",
+    "description": "This project aims to build a tool for testing for Cross Site Scripting vulnerabilities in web applications, based on a wordlist of payloads. This project intends to be a basic tool to detect such vulnerabilities to improve security and automate the process of securing websites with effective filters."
+  },
 ]
