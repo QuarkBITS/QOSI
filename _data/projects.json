@@ -21,6 +21,6 @@
     "title": "Externally Randomized Encryption Service",
     "img": "encryption.jpg",
     "by": "Club",
-    "description": "Dolor eius odio voluptas molestias eaque cumque Reiciendis quidem saepe nobis saepe dolor. Libero repellendus fugit mollitia ex a A quos aperiam blanditiis cum non tempora? Enim veritatis molestiae non"
+    "description": "We aim to create a robust encryption service using a randomly generated key and suitable algorithms. This project aims to make a more secure encryption service by relying on external, more truly random processes for key generation."
   }
 ]
