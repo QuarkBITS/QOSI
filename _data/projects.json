@@ -22,5 +22,30 @@
     "img": "encryption.jpg",
     "by": "SEDS Celestia",
     "description": "We aim to create a robust encryption service using a randomly generated key and suitable algorithms. This project aims to make a more secure encryption service by relying on external, more truly random processes for key generation."
-  }
+  },
+  {
+    "title": "Drone Automation",
+    "img": "Drone.jpg",
+    "by": "ERC",
+    "description": "Automating a drone to avoid obstacles using reinforcement learning"
+  },
+  {
+    "title": "AR StoryboARD",
+    "img": "AR.jpg",
+    "by": "AR Developers Group",
+    "description": "Aim is to create a real world product which will be released. It will have virtual AR rooms which you can buy. Contributers will be working on creating own rooms or working on other's previously made rooms."
+  },
+  {
+    "title": "AR StoryboARD",
+    "img": "AR.jpg",
+    "by": "AR Developers Group",
+    "description": "Aim is to create a real world product which will be released. It will have virtual AR rooms which you can buy. Contributers will be working on creating own rooms or working on other's previously made rooms."
+  },
+  {
+    "title": "AR StoryboARD",
+    "img": "AR.jpg",
+    "by": "AR Developers Group",
+    "description": "Aim is to create a real world product which will be released. It will have virtual AR rooms which you can buy. Contributers will be working on creating own rooms or working on other's previously made rooms."
+  },
+  
 ]
