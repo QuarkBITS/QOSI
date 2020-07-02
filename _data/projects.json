@@ -63,13 +63,13 @@
   {
     "title": "Gennav",
     "img": "Gennav.jpg",
-    "by": "BITSKrieg",
+    "by": "ERC",
     "description": "Building a collection of robotics navigation algorithms for multipurpose usage."
   },
   {
-    "title": "XXS Automator",
-    "img": "XXS.jpg",
-    "by": "BITSKrieg",
-    "description": "This project aims to build a tool for testing for Cross Site Scripting vulnerabilities in web applications, based on a wordlist of payloads. This project intends to be a basic tool to detect such vulnerabilities to improve security and automate the process of securing websites with effective filters."
+    "title": "RoManOV",
+    "img": "Arm.jpg",
+    "by": "ERC",
+    "description": "The goal here is to build a robotic arm that can autonomously recognise, pick and place objects and ultimately perform complex tasks like playing a game of chess using Convolutional Neural Networks, Deep Learning and Computer Vision."
   },
 ]
