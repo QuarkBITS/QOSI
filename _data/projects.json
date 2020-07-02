@@ -30,10 +30,11 @@
     "description": "Automating a drone to avoid obstacles using reinforcement learning"
   },
   {
-    "title": "AR StoryboARD",
-    "img": "AR.jpg",
-    "by": "AR Developers Group",
-    "description": "Aim is to create a real world product which will be released. It will have virtual AR rooms which you can buy. Contributers will be working on creating own rooms or working on other's previously made rooms."
+    "title": "Quantum Algorithms",
+    "img": "Quantum.jpg",
+    "by": "SEDS Celestia",
+    "description": "The project aims to demonstrate classical vs quantum strategies in game theory using the CHSH game. We will also attempt to build a classical implementation of the Deutsch Algorithm using an optical approach. We will be covering the basics of Q# using Microsoft's quantum katas.
+"
   },
   {
     "title": "AR StoryboARD",
