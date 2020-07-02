@@ -6,10 +6,10 @@
     "description": "BCI (brain computer interface) is  a  computing  system  that  is  based  on  the  brain  signals  that  are  extracted,    analysed then  translated  into  computer  commands  that  are  passed  through  the  interface  to  give  the desired  output.  Intuitively,  it  can  be  perceived  as  a  computer  that  does  stuff  with  a  flick  of  a thought. A BCI works on  three steps: signal acquisition, data extraction, function implementation. Aim of this project is controlling tbe motion of a rover using a BCI. In this, we would be dealing with different aspects of neurology, lots of deep learning and computing algorithms, circuitry as well as robotics. "
   },
   {
-    "title": "Project Title",
-    "img": "placeholder.png",
-    "by": "Club",
-    "description": "Dolor eius odio voluptas molestias eaque cumque Reiciendis quidem saepe nobis saepe dolor. Libero repellendus fugit mollitia ex a A quos aperiam blanditiis cum non tempora? Enim veritatis molestiae non"
+    "title": "Aerodynamics Club Website Development",
+    "img": "WEBD.jpg",
+    "by": "AeroD",
+    "description": "The Aerodynamics Club of BITS Goa is a bunch of highly enthusiastic people who build planes and drones. Recently the club has been developing its website which plans to showcase our ongoing projects, have interesting articles amongst other features. With new features to be added and issues resolved it serves as a great project for contributors to get hands-on experience."
   },
   {
     "title": "Project Title",
