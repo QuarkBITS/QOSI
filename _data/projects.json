@@ -45,7 +45,7 @@
   {
     "title": "XXS Automator",
     "img": "XXS.jpg",
-    "by": "AR Developers Group",
+    "by": "BITSKrieg",
     "description": "This project aims to build a tool for testing for Cross Site Scripting vulnerabilities in web applications, based on a wordlist of payloads. This project intends to be a basic tool to detect such vulnerabilities to improve security and automate the process of securing websites with effective filters."
   },
   
