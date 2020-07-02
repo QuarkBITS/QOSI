@@ -55,16 +55,16 @@
     "description": "This project intends to be a swiss army knife of cracking classical cryptography, by collating all existing ciphers and implementing scripts to crack each of them. Eventually, this project aims to evolve further by accommodating advanced features such as brute-force attacks and dictionary attacks."
   },
   {
-    "title": "XXS Automator",
-    "img": "XXS.jpg",
-    "by": "BITSKrieg",
-    "description": "This project aims to build a tool for testing for Cross Site Scripting vulnerabilities in web applications, based on a wordlist of payloads. This project intends to be a basic tool to detect such vulnerabilities to improve security and automate the process of securing websites with effective filters."
+    "title": "Robot Acoustic Localisation (RAL)",
+    "img": "RAL.jpg",
+    "by": "ERC",
+    "description": "Our aim is to develop a system that uses ultrasonic pulses to localise a team of robots and to detect environmental obstacles simultaneously. We hope to make this an open source module that can be easily implemented in any generic robotics project."
   },
   {
-    "title": "XXS Automator",
-    "img": "XXS.jpg",
+    "title": "Gennav",
+    "img": "Gennav.jpg",
     "by": "BITSKrieg",
-    "description": "This project aims to build a tool for testing for Cross Site Scripting vulnerabilities in web applications, based on a wordlist of payloads. This project intends to be a basic tool to detect such vulnerabilities to improve security and automate the process of securing websites with effective filters."
+    "description": "Building a collection of robotics navigation algorithms for multipurpose usage."
   },
   {
     "title": "XXS Automator",
