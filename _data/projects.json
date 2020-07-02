@@ -46,7 +46,7 @@
     "title": "Cryptographer",
     "img": "Crypto.jpg",
     "by": "BITSKrieg",
-    "description": "This project intends to be a swiss army knife of cracking classical cryptography, by collating all existing ciphers and implementing scripts to crack each of them. Eventually, this project aims to evolve further by accommodating advanced features such as brute-force attacks and dictionary attacks."
+    "description": "This project intends to be a swiss army knife of cracking classical cryptography, eventually accommodating advanced features such as brute-force attacks and dictionary attacks."
   },
   {
     "title": "Robot Acoustic Localisation (RAL)",
