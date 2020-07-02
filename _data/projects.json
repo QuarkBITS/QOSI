@@ -37,10 +37,10 @@
 "
   },
   {
-    "title": "AR StoryboARD",
-    "img": "AR.jpg",
-    "by": "AR Developers Group",
-    "description": "Aim is to create a real world product which will be released. It will have virtual AR rooms which you can buy. Contributers will be working on creating own rooms or working on other's previously made rooms."
+    "title": "Windows Service",
+    "img": "Windows.jpg",
+    "by": "BITSKrieg",
+    "description": "A windows service is an application which runs in the background. In this project, a windows service will be built to monitor key events: registry changes, process monitoring, and drive mounting detection. This can eventually become a program to provide alerts for malicious activity."
   },
   {
     "title": "AR StoryboARD",
