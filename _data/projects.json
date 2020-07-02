@@ -20,7 +20,7 @@
   {
     "title": "Externally Randomized Encryption Service",
     "img": "encryption.jpg",
-    "by": "Club",
+    "by": "SEDS Celestia",
     "description": "We aim to create a robust encryption service using a randomly generated key and suitable algorithms. This project aims to make a more secure encryption service by relying on external, more truly random processes for key generation."
   }
 ]
