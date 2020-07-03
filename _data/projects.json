@@ -27,8 +27,13 @@
     "title": "Quantum Algorithms",
     "img": "Quantum.jpg",
     "by": "SEDS Celestia",
-    "description": "The project aims to demonstrate classical vs quantum strategies in game theory using the CHSH game. We will also attempt to build a classical implementation of the Deutsch Algorithm using an optical approach. We will be covering the basics of Q# using Microsoft's quantum katas.
-"
+    "description": "The project aims to demonstrate classical vs quantum strategies in game theory using the CHSH game. We will also attempt to build a classical implementation of the Deutsch Algorithm using an optical approach. We will be covering the basics of Q# using Microsoft's quantum katas."
+  },
+  {
+    "title": "Algorithmic Financial Trading with Deep CNN",
+    "img": "Finance.jpg",
+    "by": "WSC",
+    "description": "Implementation of a proposed novel algorithmic trading model CNN-TA using a 2-D Convolutional Neural Network based on image processing properties."
   },
   {
     "title": "Windows Service",
