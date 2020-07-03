@@ -66,4 +66,28 @@
     "by": "ERC",
     "description": "The goal here is to build a robotic arm that can autonomously recognise, pick and place objects and ultimately perform complex tasks like playing a game of chess using Convolutional Neural Networks, Deep Learning and Computer Vision."
   },
+  {
+    "title": "SWD BITS Goaa",
+    "img": "WebD.jpg",
+    "by": "ERC",
+    "description": "The new SWD Website still requires some bug fixes and feature implementations on both the front-end and back-end side. Front-end uses django templates with css, back-end uses django. Contributors are expected to have a working knowledge of django and git."
+  },
+  {
+    "title": "DecodET: ExtraTerrestrial Proteins & DL",
+    "img": "Bio.jpg",
+    "by": "Kratos",
+    "description": "In this project, we will be looking at ways to improving the currently available deep learning models for structure prediction, similarity assessment, and classification of protein sequences."
+  },
+  {
+    "title": "Decepticonlp",
+    "img": "AI.jpg",
+    "by": "SAIDL",
+    "description": "Decepticonlp is a python library for Robustness Monitoring and Adversarial Debugging of NLP models, we propose an effective tool for researchers and developers to monitor the robustness of their models."
+  },
+  {
+    "title": "Scanf()",
+    "img": "MA.png",
+    "by": "DevSoc",
+    "description": "Scanner to convert images to PDFs (CamScanner like functionality)."
+  },
 ]
