@@ -67,7 +67,7 @@
     "description": "The goal here is to build a robotic arm that can autonomously recognise, pick and place objects and ultimately perform complex tasks like playing a game of chess using Convolutional Neural Networks, Deep Learning and Computer Vision."
   },
   {
-    "title": "SWD BITS Goaa",
+    "title": "SWD BITS Goa",
     "img": "WebD.jpg",
     "by": "SWD",
     "description": "The new SWD Website still requires some bug fixes and feature implementations on both the front-end and back-end side. Front-end uses django templates with css, back-end uses django. Contributors are expected to have a working knowledge of django and git."
