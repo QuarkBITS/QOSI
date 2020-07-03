@@ -103,6 +103,13 @@
     "description": "Create a digital Portfolio in few minutes, by filling our intuitive form.Portfolio Generator will host your Portfolio on the fastest web servers and will provide you an easy - to - share bp - gc.in short link."
   },
   {
+    "title": "URL Shortner",
+    "img": "url.png",
+    "by": "DevSoc",
+    "link": "https://github.com/Devsoc-BPGC/Tiny-Url",
+    "description": "BITS Goa's very own tiny url generator for shortening urls."
+  },
+  {
     "title": "Scanf()",
     "img": "MA.png",
     "by": "DevSoc",
